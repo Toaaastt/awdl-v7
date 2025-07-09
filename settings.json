@@ -1,0 +1,8 @@
+{
+    "create_nfo_files": true,
+    "destination_directory": "D:\\",
+    "download_cover_images": true,
+    "download_mode": "strict",
+    "prefered_language": "de",
+    "prefered_language_fallback": "jp-de"
+}
